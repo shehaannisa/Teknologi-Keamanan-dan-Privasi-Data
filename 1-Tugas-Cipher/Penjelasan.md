@@ -25,7 +25,7 @@ Misal : pi : sandishift
 
 ## Substitution Cipher
 #### Subsitusi cipher adalah sebuah teknik kriptography klasik yang mana untuk setiap karakter dari plaintext digantikan dengan karakter lainnya.
-<br> Disini saya memakai Cipher substitusi abjad-tunggal
+Disini saya memakai Cipher substitusi abjad-tunggal
 <br>Jenis cipher substitusi ini sering juga disebut cipher substitusi sederhana. Ide cipher substitusi abjad-tunggal adalah menggantikan satu karakter pada plainteks menjadi satu karakter pada cipherteks dengan aturan tertentu. Fungsi ciphering-nya merupakan fungsi satu ke satu.
 <br>Contoh :
 <br>Susunan huruf-huruf untuk chiperteks diperoleh dengan menyusun huruf-huruf abjad secara acak seperti tabel substitusi berikut:
