@@ -3,7 +3,20 @@
 
 ## Shift Cipher
 - 2 digit terakhir NIM (89)
-<br>Hasil apabila di Enkripsi
+  - Hasil apabila di Enkripsi
 <br>![shiftcipher1](1.jpg)
-<br>Hasil apabila di Dekripsi
+  - Hasil apabila di Dekripsi
 <br>![shiftcipher2](2.jpg)
+
+## Vigenere Cipher
+- Hasil :
+<br>![vigenerecipher](3.jpg)
+
+## Substitution Cipher
+- Hasil :
+<br> ![SubsCipher](4.jpg)
+
+## Transposition Cipher
+- 3 digit terakhir NIM (189)
+  - Hasil :
+  <br>![TransCipher](5.jpg)
