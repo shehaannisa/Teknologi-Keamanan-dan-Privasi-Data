@@ -8,12 +8,11 @@
 
 ## Shift Cipher
 #### Shift cipher (Sandi geser) merupakan generalisasi dari Sandi Caesar, yaitu tidak membatasi pergeseran sebanyak tiga huruf. Jadi ada sebanyak 26 kunci pergeseran yang bisa digunakan.
-<br>Misal : pi : sandishift
+Misal : pi : sandishift
 <br>kunci K=11
 <br>Jika urutan alphabet adalah ABCDEFGHIJKLMNOPQRSTUVWXYZ, setelah diberi kunci 11 maka akan menjadi tabel shift sebagai berikut :
 <br>LMNOPQRSTUVWXYZABCDEFGHIJK
 <br>Maka ci : DLYOTDSTQE
-Maka ci : DLYOTDSTQE
 - 2 digit terakhir NIM (89)
   - Hasil apabila di Enkripsi
 <br>![shiftcipher1](1.jpg)
