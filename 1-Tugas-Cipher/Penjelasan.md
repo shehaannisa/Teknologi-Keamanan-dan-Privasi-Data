@@ -33,7 +33,7 @@ Disini saya memakai Cipher substitusi abjad-tunggal
 <br>pi : A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 <br>ci : D I Q M T B Z S Y K V O F E R J A U W P X H L C N G
 - Hasil :
-<br> ![SubsCipher](4.jpg)
+<br> ![SubsCipher](SubsCip.jpg)
 
 ## Transposition Cipher
 - 3 digit terakhir NIM (189)
